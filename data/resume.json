@@ -7,122 +7,56 @@
         "school": "汕头大学大学",
         "profession": "计算机技术",
         "sex": "男",
-        "education" : "研究生",
+        "education": "研究生",
         "workage": "2018年毕业",
         "phone": "15800682975",
-        "email": "tonjayin@gmail.com"
+        "email": "13025322066@163.com"
     },
-    "social":[
-        {
-            "type": "github",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com",
-            "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com",
-            "icon": ""
-        },
-        {
-            "type": "home",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        }
-    ],
-    "Awards": [
-        {
-            "name": "中山大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
-        },
-        {
-            "name": "第X届XX杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
-        },
-        {
-            "name": "第X届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
-        },
-        {
-            "name": "201X百度校园助手大赛优秀开发奖"
-        },
-        {
-            "name": "201X华南XX杯广东省Java程序员竞赛三等奖"
-        }
-    ],
     "socialExperiences": [
         {
-            "name": "加入XX移动开发工作室",
-            "name_link": "https://github.com/Jayin",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
+            "name": "宜家家居外包 Java后端",
+            "description": "2021.5-2021.12"
         },
         {
-            "name": "组织X次校内开发者交流会",
-            "name_link": "https://github.com/Jayin",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
-        }
-    ],
-    "InternExperiences": [
-        {
-            "name": "深圳XX网络科技有限公司",
-            "name_link": "",
-            "title": "前端开发工程师",
-            "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2015.04 - 2015.09",
-            "location": "广东 深圳"
+            "name": "喜马拉雅安全部 安全开发工程师",
+            "description": "2020.12-2021.4"
         },
         {
-            "name": "深圳XXX网络科技有限公司",
-            "name_link": "",
-            "title": "PHP开发工程师",
-            "icon": "",
-            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
-        }
+            "name": "上海爱驰汽车 TSP后端开发工程师",
+            "description": "2020.8-2020.12"
+        },
+        {
+            "name": "上海乐言信息科技 Java后端开发",
+            "description": "2019.2-2020.5"
+        },
+        {
+            "name": "上海房多多科技 Java后端开发",
+            "description": "2018.9-2019.1"
+        },
+        {}
     ],
+    "InternExperiences": [],
     "ProjectExperience": [
         {
-            "name": "XTips",
-            "name_link": "https://github.com/Jayin",
-            "title": "Android App, 作者",
+            "name": "上海房多多科技",
+            "title": "多多卖房SAAS平台",
+            "description": "为中小型中介提供的线上房源展示及获客平台，促成最终租赁买卖交易。 技术栈：springboot + dubbo mysql redis activemq",
+            "time": "2018.9 - 2019.1"
+        },
+        {
+            "name": "上海乐言信息科技",
+            "title": "policy策略引擎",
             "icon": "",
-            "description": "中山大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
+            "description": "为购买公司智能客服的淘宝商家提供策略配置化平台，实现策略定制化，提升客户的使用体验。技术栈：grpc + guice + mysql + redis + kafka",
+            "time": "2019.2 - 2019.11",
             "location": ""
         },
         {
-            "name": "XX技能培训中心",
-            "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
+            "name": "上海乐言信息科技",
+            "title": "dialogue对话引擎双十一降级",
             "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
-            "location": ""
-        },
-        {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
-            "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
-            "location": ""
-        },
-        {
-            "name": "更多",
-            "name_link": "https://github.com/Jayin",
-            "title": "",
-            "icon": "",
-            "description": "",
-            "time": "",
+            "description": "基于前一年双十一导致客服电脑宕机情况严重，针对dialogue对话引擎在双十一当天进行必要的动态降级策略。技术栈：grpc + guice + mysql + redis + kafka",
+            "time": "2019.9 - 2019.11",
             "location": ""
         }
     ]
