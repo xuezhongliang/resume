@@ -32,32 +32,64 @@
         {
             "name": "上海房多多科技 Java后端开发",
             "description": "2018.9-2019.1"
-        },
-        {}
+        }
     ],
     "InternExperiences": [],
     "ProjectExperience": [
         {
             "name": "上海房多多科技",
+            "name_link": "",
             "title": "多多卖房SAAS平台",
             "description": "为中小型中介提供的线上房源展示及获客平台，促成最终租赁买卖交易。 技术栈：springboot + dubbo mysql redis activemq",
             "time": "2018.9 - 2019.1"
         },
         {
             "name": "上海乐言信息科技",
+            "name_link": "",
             "title": "policy策略引擎",
             "icon": "",
-            "description": "为购买公司智能客服的淘宝商家提供策略配置化平台，实现策略定制化，提升客户的使用体验。技术栈：grpc + guice + mysql + redis + kafka",
-            "time": "2019.2 - 2019.11",
-            "location": ""
+            "description": "为购买公司智能客服的淘宝商家提供策略配置化平台，实现策略定制化，提升客户的使用体验。<br/>技术栈：grpc + guice + mysql + redis + kafka",
+            "time": "2019.2 - 2019.11"
         },
         {
             "name": "上海乐言信息科技",
+            "name_link": "",
             "title": "dialogue对话引擎双十一降级",
             "icon": "",
-            "description": "基于前一年双十一导致客服电脑宕机情况严重，针对dialogue对话引擎在双十一当天进行必要的动态降级策略。技术栈：grpc + guice + mysql + redis + kafka",
-            "time": "2019.9 - 2019.11",
-            "location": ""
+            "description": "基于前一年双十一导致客服电脑宕机情况严重，针对dialogue对话引擎在双十一当天进行必要的动态降级策略。<br/>技术栈：grpc + guice + mysql + redis + kafka",
+            "time": "2019.9 - 2019.11"
+        },
+        {
+            "name": "上海乐言信息科技",
+            "name_link": "",
+            "title": "policy策略引擎",
+            "icon": "",
+            "description": "为购买公司智能客服的淘宝商家提供策略配置化平台，实现策略定制化，提升客户的使用体验。<br/>技术栈：grpc + guice + mysql + redis + kafka",
+            "time": "2019.2 - 2019.11"
+        },
+        {
+            "name": "喜马拉雅安全部",
+            "name_link": "",
+            "title": "认证中心改造",
+            "icon": "",
+            "description": "原先的认证中心直接在开源项目CAS上进行魔改的，年代久远可维护性差，所以进行重构改造。<br/>技术栈：springboot + mysql + redis +rabbitmq",
+            "time": "2020.12 - 2021.4"
+        },
+        {
+            "name": "宜家digital部门",
+            "name_link": "",
+            "title": "One-ID驻场开发",
+            "icon": "",
+            "description": "宜家账号中心改造与维护，将原先线下店面的账号数据打通，实现当下移动互联网的统一账号体系。<br/>技术栈：springboot + mysql + redis",
+            "time": "2021.5 - 2021.12"
+        },
+        {
+            "name": "宜家digital部门",
+            "name_link": "",
+            "title": "双十一风控系统",
+            "icon": "",
+            "description": "双十一营销推广活动期间对用户账号进行风险识别，购买了阿里云的风控系统，宜家内部再做一个统一代理。<br/>技术栈：springboot + mysql + redis",
+            "time": "2021.5 - 2021.12"
         }
     ]
 }
