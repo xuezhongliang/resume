@@ -52,20 +52,12 @@
             "time": "2019.2 - 2019.11"
         },
         {
-            "name": "上海乐言信息科技",
+            "name": "上海乐言信息",
             "name_link": "",
             "title": "dialogue对话引擎双十一降级",
             "icon": "",
             "description": "基于前一年双十一导致客服电脑宕机情况严重，针对dialogue对话引擎在双十一当天进行必要的动态降级策略。技术栈：grpc + guice + mysql + redis + kafka",
             "time": "2019.9 - 2019.11"
-        },
-        {
-            "name": "上海乐言信息科技",
-            "name_link": "",
-            "title": "policy策略引擎",
-            "icon": "",
-            "description": "为购买公司智能客服的淘宝商家提供策略配置化平台，实现策略定制化，提升客户的使用体验。技术栈：grpc + guice + mysql + redis + kafka",
-            "time": "2019.2 - 2019.11"
         },
         {
             "name": "喜马拉雅安全部",
